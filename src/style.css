@@ -1,0 +1,20 @@
+#cube{
+  width: 40px;
+  height: 40px;
+  margin: 20% 0 0 20%;
+  background-color: pink;
+/*   animation: rotateCube 1s infinite; */
+}
+
+/* 
+@keyframes rotateCube{
+  0%{
+    transform: rotate(0deg);
+  }
+  30%{
+    background-color: purple;
+  }
+  100%{
+    transform: rotate(180deg);
+  }
+} */
