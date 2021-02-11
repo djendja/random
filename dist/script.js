@@ -21,7 +21,7 @@ document.body.onclick = () =>
 
 ;*/ 
 
-
+//poyy
 var cubeAnimation = document.getElementById('cube').animate(cubeRotating, cubeTiming);
 
 //promena brzine
